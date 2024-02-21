@@ -39,3 +39,14 @@
 **Technical Tool:** Tableau  
 **Result:** 97.5/100  
 [Population of Residents in Australia](https://public.tableau.com/views/BUSA2020_MinhLeQuynhCao_AssignmentTwo_DataVisualization/DashboardThePopulationofResidentsinAustralia1996-2016_?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+---
+
+## Fairfield Property Investment
+### University assignment (BUSA2020: Fundamentals of Business Analytics)
+*Identifying the pros and cons of the investment in Fairfield real estates, starting with the data cleaning and inflation adjustment, followed by the comparison with the data of historical and surrounding Fairfield property.*  
+
+**Time:** Aug 05 - Aug 19 2022  
+**Technical Tool:** Excel  
+**Result:** 100/100  
+[Fairfield Property Investment](https://hcmedu-my.sharepoint.com/:x:/g/personal/cmlequynh_hcm_edu_vn/ESG952Jz0wFNuKNmQWfHzMgBBGfIf6OfkGZGD_FqnMkFgg?e=M7BUy3)
