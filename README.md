@@ -1,0 +1,1 @@
+# aomineqyn.github.io
