@@ -1,4 +1,4 @@
-## AWTY & the Journey to Solve Cold Start Problem
+## [AWTY & the Journey to Solve Cold Start Problem](https://drive.google.com/file/d/10e1ToO8n-BB1RzOJLXtSthXj_EgYGBso/view?usp=drive_link)
 ### UCC x Oliver Wyman Trans-Tasman 2023 Case Competition
 *Coming up with solutions to support AWTY, a new platform for searching campsites in Australia, to overcome 3 challenges: (1) low brand awareness, (2) limitation in user network, (3) user experience.*   
 <br />
