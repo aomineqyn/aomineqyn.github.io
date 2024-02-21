@@ -23,8 +23,8 @@
 ## Hiraeth Cruises Databases
 ### University assignment (COMP1350: Introduction to Database Design and Management)
 *Constructing the databases and writing queries for searches as requirements.*  
-<br />  
+
 **Time:** Oct 02 - Oct 23 2022  
-**Technical Tool:** MySQL 
+**Technical Tool:** MySQL  
 **Result:** 96/100  
 [Hiraeth Cruises Databases](https://drive.google.com/file/d/1Plx3eDWTPHhShrgb0vz1LRCSBysUI6EE/view?usp=sharing)
