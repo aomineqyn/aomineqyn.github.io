@@ -12,7 +12,7 @@
 ## Customer Segmentation 
 ### University assignment (BUSA3020: Advanced Analytics Techniques)
 *Utilizing clustering techniques (k-means, hierarchical clustering) to create group of similar customer's characteristics and give recommendations on marketing strategy.*  
-<br />  
+
 **Time:** Apr 28 - May 19 2023  
 **Technical Tool:** Jupyter Notebook (Python Programming Language)  
 **Result:** 60/100  
@@ -28,3 +28,14 @@
 **Technical Tool:** MySQL  
 **Result:** 96/100  
 [Hiraeth Cruises Databases](https://drive.google.com/file/d/1Plx3eDWTPHhShrgb0vz1LRCSBysUI6EE/view?usp=sharing)
+
+---
+
+## Population of Residents in Australia
+### University assignment (BUSA2020: Fundamentals of Business Analytics)
+*Visualizing the demographics of the Australian population born in assigned countries over 2 decades and using story-telling skills to highlight insightful aspects of the dataset.*  
+
+**Time:** Sep 16 - Sep 30 2022  
+**Technical Tool:** Tableau  
+**Result:** 97.5/100  
+[Population of Residents in Australia](https://public.tableau.com/views/BUSA2020_MinhLeQuynhCao_AssignmentTwo_DataVisualization/DashboardThePopulationofResidentsinAustralia1996-2016_?:language=en-US&:display_count=n&:origin=viz_share_link)
