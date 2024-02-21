@@ -4,4 +4,4 @@
 **Time:** 05 - 24 Jul 2023  
 **Technical Tool:** Google Slides  
 **Result:** National Heats Round  
-[Link](https://drive.google.com/file/d/10e1ToO8n-BB1RzOJLXtSthXj_EgYGBso/view?usp=drive_link)
+[AWTY & the Journey to Solve Cold Start Problem](https://drive.google.com/file/d/10e1ToO8n-BB1RzOJLXtSthXj_EgYGBso/view?usp=drive_link)
