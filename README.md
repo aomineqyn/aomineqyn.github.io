@@ -11,8 +11,8 @@
 
 ## Customer Segmentation 
 ### University assignment (BUSA3020: Advanced Analytics Techniques)
-*Utilizing clustering techniques (k-means, hierarchical clustering) to create group of similar customer's characteristics and give recommendations on marketing strategy.*
-<br />
+*Utilizing clustering techniques (k-means, hierarchical clustering) to create group of similar customer's characteristics and give recommendations on marketing strategy.*  
+<br />  
 **Time:** Apr 28 - May 19 2023  
 **Technical Tool:** Jupyter Notebook (Python Programming Language)  
 **Result:** 60/100  
