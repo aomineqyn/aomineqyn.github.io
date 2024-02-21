@@ -17,3 +17,14 @@
 **Technical Tool:** Jupyter Notebook (Python Programming Language)  
 **Result:** 60/100  
 [Customer Segmentation (Loyalty Cards)](https://drive.google.com/file/d/1U4xiU2TOh0yGxCkqu-4ak8yjHKI5z_T5/view?usp=sharing)
+
+---
+
+## Hiraeth Cruises Databases
+### University assignment (COMP1350: Introduction to Database Design and Management)
+*Constructing the databases and writing queries for searches as requirements.*  
+<br />  
+**Time:** Oct 02 - Oct 23 2022  
+**Technical Tool:** MySQL 
+**Result:** 96/100  
+[Hiraeth Cruises Databases](https://drive.google.com/file/d/1Plx3eDWTPHhShrgb0vz1LRCSBysUI6EE/view?usp=sharing)
